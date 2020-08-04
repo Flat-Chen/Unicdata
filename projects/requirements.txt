@@ -23,7 +23,7 @@ cssselect==1.1.0
 decorator==4.4.2
 defusedxml==0.6.0
 demjson==2.2.4
-Django==2.2.4
+Django==2.2.13
 django-cors-headers==3.1.0
 docker==4.1.0
 docker-py==1.10.6
